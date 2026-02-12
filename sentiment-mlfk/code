@@ -1,0 +1,6 @@
+
+### What you do with your two class files
+Just **upload your existing text files** into `data/` and rename them exactly:
+- `data/compliments.txt`  :contentReference[oaicite:4]{index=4}
+- `data/negative_phrases.txt` :contentReference[oaicite:5]{index=5}
+::contentReference[oaicite:6]{index=6}
